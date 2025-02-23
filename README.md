@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dreamrela
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me: contact opmailgg@gmai.com
 - 😄 Pronouns: He/Him
